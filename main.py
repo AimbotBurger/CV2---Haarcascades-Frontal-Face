@@ -1,6 +1,6 @@
 import cv2
 
-# We load the pretrained fucker
+# We load the pretrained Ai
 tfd = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 # The data.haarcascades isn't included either in the video LOL
 
